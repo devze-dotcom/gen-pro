@@ -67,9 +67,5 @@ O executável será gerado na pasta `dist/`.
 - Melhoria na interface gráfica utilizando bibliotecas mais avançadas como PyQt ou Kivy.
 - Integração com um banco de dados mais robusto, como PostgreSQL ou MySQL.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
 
 Esse **README** fornece uma visão geral do projeto, como executar, gerar o executável e potenciais melhorias futuras. Se precisar de algum ajuste, me avise!
